@@ -1,6 +1,16 @@
-### Hi there 👋
+<div align="center">
+
+[<img src="https://img.shields.io/badge/shankarsiddharth-LinkedIn-black?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/shankarsiddharth/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/sska.fyi-website-black?style=for-the-badge" />](https://sska.fyi/)
+
+</div>
 
 <!--
+
+### Hi there 👋
+
+
 **shankarsiddharth/shankarsiddharth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
