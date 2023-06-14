@@ -1,12 +1,8 @@
 <div align="center">
 
-[
-<a href="https://www.linkedin.com/in/shankarsiddharth/" target="_blank">
-    <img src="https://img.shields.io/badge/shankarsiddharth-LinkedIn-black?style=for-the-badge&logo=linkedin" />
-</a>
-](https://www.linkedin.com/in/shankarsiddharth/)
+[<img src="https://img.shields.io/badge/shankarsiddharth-LinkedIn-black?style=for-the-badge&logo=linkedin" alt="Click to go to LinkedIn Page" onclick="window.open('https://www.linkedin.com/in/shankarsiddharth/', '_blank');"/>](https://www.linkedin.com/in/shankarsiddharth/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/sska.fyi-website-black?style=for-the-badge&logo=About.me&logoColor=white" />](https://sska.fyi/) 
+[<img src="https://img.shields.io/badge/sska.fyi-website-black?style=for-the-badge&logo=About.me&logoColor=white" alt="Click to go to Porfolio Website" onclick="window.open('https://sska.fyi/', '_blank');"/>](https://sska.fyi/) 
 
 </div>
 
