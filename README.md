@@ -1,8 +1,12 @@
 <div align="center">
 
-[<img src="https://img.shields.io/badge/shankarsiddharth-LinkedIn-black?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/shankarsiddharth/)
+[
+<a href="https://www.linkedin.com/in/shankarsiddharth/" target="_blank">
+    <img src="https://img.shields.io/badge/shankarsiddharth-LinkedIn-black?style=for-the-badge&logo=linkedin" />
+</a>
+](https://www.linkedin.com/in/shankarsiddharth/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/sska.fyi-website-black?style=for-the-badge" />](https://sska.fyi/)
+[<img src="https://img.shields.io/badge/sska.fyi-website-black?style=for-the-badge&logo=About.me&logoColor=white" />](https://sska.fyi/) 
 
 </div>
 
